@@ -1,0 +1,21 @@
+body{
+  background-image: url("http://az616578.vo.msecnd.net/files/2017/01/30/6362138412562832161165511318_5135273dccb9a71663a57856da886956.jpg");
+  background-size: cover;
+  color: grey;
+  text-align: center;
+
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 20px;
+  color: white;
+  padding: 15px;
+
+}
+.left:hover {
+  background-color: lightblue;
+}
+.right:hover {
+  background-color: cyan;
+}
